@@ -4,5 +4,8 @@
   "main": "list_buttons.js",
   "dependencies": {
     "puppeteer": "^23.3.0"
+  },
+  "scripts": {
+    "start": "node list_buttons.js"
   }
 }
