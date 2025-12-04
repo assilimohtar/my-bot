@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "list_buttons.js",
   "dependencies": {
-    "puppeteer": "^23.0.0"
+    "puppeteer": "^23.3.0"
   }
 }
